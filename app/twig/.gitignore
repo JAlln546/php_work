@@ -1,0 +1,6 @@
+cache/
+vendor/
+/vendor/
+composer.lock
+secret.php
+composer.phar

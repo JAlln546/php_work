@@ -1,0 +1,21 @@
+p {
+    margin:1% 10% 1% 10%;
+    font-size:1.3em;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    text-align:center;
+    color:orange;
+    font-size:3em;
+    font-family: 'Permanent Marker', cursive;
+}
+
+a {
+    text-align:center;
+    color:purple;
+    font-family: 'Raleway', sans-serif;
+    display:block;
+    margin:0 auto;
+} 
+
