@@ -1,6 +1,6 @@
 <?php
 
 define ('DBHOST', 'localhost');
-define ('DBNAME', 'phpapp');
+define ('DBNAME', 'dbname');
 define ('DBUSER', 'root');
-define ('DBPASSWORD', 'Ateyo143!');
+define ('DBPASSWORD', 'yourpass');
